@@ -9,7 +9,7 @@
 <p>
   <em>
     I am a final Year undergraduate from <a href="http://rungta.ac.in/"> <b>Rungta College of Engineering and Technology</b>, Bhilai, Chhattisgarh</a>.  
-    A budding <b>Software Developer</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Designer.gif" width="36px">  who is <b>obsessed</b>
+    A budding <b>Software Engineer</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Developer.gif" width="30px"> and a <b>Cloud Enthusiast,</b>&nbsp;<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Medal.gif" width="20px">
