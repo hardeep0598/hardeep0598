@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=hardeep0598)
 <img align='right' src="https://avatars3.githubusercontent.com/u/39173869?s=460&u=472808c26e312f404d7610f37bf7fd71ad84e843&v=4" width="230">
 
-#### Hi. My name is *Hardeep Kaur*. I am a third year undergraduate at the Rungta College of Engineering & Technology, pursuing my Bachelors in Computer Science and Engineering.
+#### Hi. My name is *Hardeep Kaur*. I am a final year undergraduate at the Rungta College of Engineering & Technology, pursuing my Bachelors in Computer Science and Engineering.
 #### I am a gastronome, vegetarian & an experimental chef.
 
 <p>
