@@ -3,12 +3,12 @@
 ![](https://komarev.com/ghpvc/?username=hardeep0598)
 <img align='right' src="https://avatars3.githubusercontent.com/u/39173869?s=460&u=472808c26e312f404d7610f37bf7fd71ad84e843&v=4" width="230">
 
-#### Hi. My name is *Hardeep Kaur*. I am a final year undergraduate at the Rungta College of Engineering & Technology, pursuing my Bachelors in Computer Science and Engineering.
+#### Hi. My name is *Hardeep Kaur*.
 #### I am a gastronome, vegetarian & an experimental chef.
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="http://rungta.ac.in/"> <b>Rungta College of Engineering and Technology</b>, Bhilai, Chhattisgarh</a>.  
+    I am a final Year undergraduate from <a href="http://rungta.ac.in/"> <b>Rungta College of Engineering and Technology</b>, Bhilai, Chhattisgarh</a>.  
     A budding <b>Software Developer</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/hardeep0598/hardeep0598/blob/master/Rocket.gif" width="18px">and 
