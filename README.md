@@ -1,4 +1,3 @@
-![](gif.gif)
 <h2> 👋 Howdy, Nerds </h2>
 
 I'm a total space nerd wondering about the mysteries of the universe.<br> It's like a never-ending adventure that I can't resist! 🖼 <br>
