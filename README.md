@@ -1,5 +1,6 @@
 <h2> 👋 Howdy, Nerds </h2>
 
+I am an eternal learner, forever curious and eager to embrace new knowledge. <br>
 I'm a total space nerd wondering about the mysteries of the universe.<br> It's like a never-ending adventure that I can't resist! 🖼 <br>
 I'm also a vegetarian and I have a passion for cooking up experimental dishes.🍔 <br>
 I'm all about pushing boundaries, whether it's with food or my own life. 🤷 <br>
