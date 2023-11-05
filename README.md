@@ -17,7 +17,7 @@ By the way, I have a passion for sketching, stargazing, surfing internet & flaun
  
  ### Work Experience:
 
-<b> 2022, April - Present </b> - Sep: Software Deveopment Engineer @ [Smallcase](https://smallcase.com/) 💻
+<b> 2022, April - Present </b> - Sep: Software Development Engineer @ [Smallcase](https://smallcase.com/) 💻
 
 <b> 2021, March - 2022, March </b> - Sep: Software Engineer I @ [Hashedin By Deloitte](https://hashedin.com/) 💻
 
